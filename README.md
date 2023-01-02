@@ -6,6 +6,6 @@ Personal Finance Control
 # Process
 ```Will be separated in two first steps```, and according the progress will be added more steps:
 
-* Store user spending amounts.
+* store all the user's expenses.
 * subtract total expenses from total revenues.
 
