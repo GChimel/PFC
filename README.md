@@ -1,5 +1,11 @@
 # PFC
 Personal Finance Control
 
+```The objective of this repository is do a Personal Finance Control whit python. ```
 
-teste
+# Process
+```Will be separated in two first steps```, and according the progress will be added more steps:
+
+* Store user spending amounts.
+* subtract total expenses from total revenues.
+
