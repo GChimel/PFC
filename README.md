@@ -8,4 +8,3 @@ Personal Finance Control
 
 * store all the user's expenses.
 * subtract total expenses from total revenues.
-
