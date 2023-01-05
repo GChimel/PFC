@@ -1,7 +1,7 @@
 # PFC
 Personal Finance Control
 
-```The objective of this repository is do a Personal Finance Control with python. ```
+```The objective of this repository is do a Personal Finance Control with python and Tkinter. ```
 
 # Process
 ```Will be separated in two first steps```, and according the progress will be added more steps:
